@@ -1,1 +1,3 @@
-# sql-ex-postgresql
+# Решение задач из [sql-ex.ru](https://sql-ex.ru)
+
+В этом репозитории лежит ноутбук с решениями задач на PostgreSQL
